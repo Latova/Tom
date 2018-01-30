@@ -2,7 +2,7 @@
 package Ryhmatyo1;
 
 import java.util.Scanner;
-
+//testi
 public class Main {
 
     private static final Scanner lukija = new Scanner(System.in);
